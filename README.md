@@ -1,2 +1,0 @@
-# datasciencecoursera
-Coursera_data_science
